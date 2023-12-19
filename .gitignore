@@ -1,0 +1,11 @@
+#Ignore Mac System Files
+.DS_store
+
+#Ignore cph extension files
+.cph
+
+#Ignore VS Code extension configuration files
+.vscode
+
+#Ignore all bin files
+*.bin
